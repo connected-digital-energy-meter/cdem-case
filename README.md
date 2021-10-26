@@ -2,6 +2,8 @@
 
 A simple casing for the Connected Digital Engergy Meter v4 and v5 device.
 
+![Render](./img/render_case_cdem.png)
+
 Find all documentation at [Connected Digital Energy Meter](https://www.cdem.be/).
 
 This case was created using [FreeCAD](https://freecadweb.org/).
